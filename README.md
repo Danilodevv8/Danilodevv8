@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou a procura do primeiro trabalho na Área
-- 🌱 Estuando typescript , React .
+- 🌱 Estudando typescript , React .
 - 📫 Contact Email : Danilo.1500@hotmail.com 
 - 🤔 um dia quero viajar o mundo todo  ...
 - 😄 Bom humor 
