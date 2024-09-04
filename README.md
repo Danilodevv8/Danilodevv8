@@ -5,7 +5,8 @@
 - 🔭 Hoje estou a procura do primeiro trabalho na Área
 - 🌱 Estudando typescript , React . MySQL e cursando faculdade de Analise e desenvolvimento de Sistemas 
 - 📫 Contact Email : Danilo.1500@hotmail.com 
-- 😄 Bom humor 
+- 😄 Bom humor
+- Quem acredita sempre alcança então acredite estude e busque seu melhor 
 -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
