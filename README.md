@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje estou a procura do primeiro trabalho na Área
-- 🌱 Estudando typescript , React . MySQL e cursando faculdade de Analise e desenvolvimento de Sistemas 
+- 🔭 A procura de me provar como profissional
+- 🌱 Estudando typescript , React . MySQL formado em  Analise e desenvolvimento de Sistemas 
 - 📫 Contact Email : Danilo.1500@hotmail.com 
 - 😄 Bom humor
 - Quem acredita sempre alcança então acredite estude e busque seu melhor 
